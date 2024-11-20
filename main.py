@@ -53,7 +53,7 @@ def main():
 
     csv_agent.invoke(
         input={
-            "input": "how many episodes did Larry David write?"
+            "input": "how many episodes did Matt Goldman write?"
         }
     )
 
